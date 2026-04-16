@@ -105,7 +105,7 @@ Training:
 
 # 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](marmornabil10@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 
