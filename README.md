@@ -20,7 +20,7 @@
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚔️ Tech 
 
 ### 💻 Languages
 
@@ -55,17 +55,6 @@
 ---
 
 # 🚀 Featured Projects
-
-### 💊 Pharma
-
-ASP.NET Core  
-SQL Server  
-QR Code System  
-Firebase
-
-Goal: prevent **fake medicine in the supply chain**.
-
----
 
 ### 🏭 Prodify
 
@@ -107,7 +96,7 @@ Training:
 
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](marmornabil10@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meryam-nabil-a196502a4/)
 
 ---
 
@@ -115,7 +104,7 @@ Training:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=myriamnabil&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriamabil&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriamnabil&layout=compact&theme=tokyonight)
 
 ---
 
