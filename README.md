@@ -85,11 +85,11 @@ Training:
 
 # 🎮 Hobbies & Interests
 
--🎮 Gaming & Esports  
--🎤 I love music and singing  
--🎶 I have a beautiful voice  
--🎨 I enjoy drawing icons  
--🎤 Public Speaking  
+. 🎮 Gaming & Esports  
+. 🎤 I love music and singing  
+. 🎶 I have a beautiful voice  
+. 🎨 I enjoy drawing icons  
+.  🎤 Public Speaking  
 ---
 
 # 🌐 Connect With Me
