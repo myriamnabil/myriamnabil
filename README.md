@@ -30,6 +30,7 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
 
 ---
 
@@ -39,7 +40,7 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Strapi](https://img.shields.io/badge/Strapi-blue?style=for-the-badge&logo=strapi)
+![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
 
 ---
 
@@ -50,22 +51,10 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
 
 ---
 
 # 🚀 Featured Projects
-
-### 💬 ChatLink
-Real-time chat platform built with **ASP.NET Core & SignalR**
-
-Features:
-
-✔ Secure authentication  
-✔ File sharing  
-✔ Real-time messaging
-
----
 
 ### 💊 PharmaFlow
 
@@ -85,6 +74,12 @@ Goal: prevent **fake medicine in the supply chain**.
 ### 🏭 Prodify
 
 A **Desktop Application** designed for factories to implement the **5S methodology** used in manufacturing environments to improve **organization, efficiency, and productivity**.
+
+---
+
+### ⛪ History-of-Coptic-Popes
+
+A **website about the history of the Coptic Orthodox Popes** that documents the lives of the Patriarchs of the Church of Alexandria and their role in preserving the faith and confronting heresies.
 
 ---
 
@@ -108,7 +103,6 @@ Training:
 🎨 Drawing & Creative Design  
 🎮 Gaming & Esports  
 🎤 Public Speaking  
-🎌 Anime Enthusiast
 
 ---
 
@@ -124,7 +118,7 @@ Training:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=myriamnabil&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriamnabil&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriamabil&layout=compact&theme=tokyonight)
 
 ---
 
