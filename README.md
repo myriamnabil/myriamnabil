@@ -56,11 +56,7 @@
 
 # 🚀 Featured Projects
 
-### 💊 PharmaFlow
-
-Blockchain-based **drug tracking system**.
-
-Tech:
+### 💊 Pharma
 
 ASP.NET Core  
 SQL Server  
@@ -100,10 +96,11 @@ Training:
 
 # 🎮 Hobbies & Interests
 
-🎨 Drawing & Creative Design  
 🎮 Gaming & Esports  
+🎤 I love music and singing  
+🎶 I have a beautiful voice  
+🎨 I enjoy drawing icons  
 🎤 Public Speaking  
-
 ---
 
 # 🌐 Connect With Me
