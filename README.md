@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Meryam Nabil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Creative+Web+Apps;Always+Learning+New+Technologies&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Web+Developer;Mobile+Application+Developer;React+%7C+Next.js+Developer;Building+Creative+Web+Apps;Always+Learning+New+Technologies&center=true&width=600&height=50">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 💻 I'm **Meryam Nabil**, a passionate **Software Developer** from Egypt 🇪🇬  
 
-🚀 I love building modern **web applications** with clean design and great user experience.
+🚀 I love building modern **web and mobile applications** with clean design and great user experience.
 
 🎯 My goal is to create **technology that helps people and solves real problems.**
 
@@ -82,15 +82,9 @@ Goal: prevent **fake medicine in the supply chain**.
 
 ---
 
-### 🧠 TaskHarmony
+### 🏭 Prodify
 
-Task management & productivity app.
-
-Tech:
-
-React  
-Node.js  
-MongoDB
+A **Desktop Application** designed for factories to implement the **5S methodology** used in manufacturing environments to improve **organization, efficiency, and productivity**.
 
 ---
 
@@ -128,9 +122,9 @@ Training:
 
 # 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=meryamnabil&show_icons=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=myriamnabil&show_icons=true&theme=tokyonight)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meryamnabil&layout=compact&theme=tokyonight)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myriamnabil&layout=compact&theme=tokyonight)
 
 ---
 
